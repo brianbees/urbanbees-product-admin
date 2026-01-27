@@ -7,7 +7,8 @@ import { useRouter } from 'next/navigation';
 export default function AddVariantPage() {
   const router = useRouter();
 
-  const [products, setProducts] = useState<any[]>([]);
+  // Load website product list instead of internal products table
+  const [websiteProducts, setWebsiteProducts] = useState<any[]>([]);
   const [productId, setProductId] = useState('');
   const [price, setPrice] = useState('');
   const [stockQty, setStockQty] = useState('');
@@ -17,9 +18,14 @@ export default function AddVariantPage() {
 
   useEffect(() => {
     async function loadProducts() {
-      const { data, error } = await supabase.from('products').select('*');
-      if (!error && data) setProducts(data);
+      const { data, error } = await supabase
+        .from('website_products')
+        .select('id, name')
+        .order('name');
+
+      if (!error && data) setWebsiteProducts(data);
     }
+
     loadProducts();
   }, []);
 
@@ -53,6 +59,7 @@ export default function AddVariantPage() {
 
       <form onSubmit={handleSubmit} className="space-y-4">
 
+        {/* Product dropdown from website_products */}
         <select
           className="w-full p-2 border rounded"
           value={productId}
@@ -60,7 +67,7 @@ export default function AddVariantPage() {
           required
         >
           <option value="">Select product</option>
-          {products.map((p) => (
+          {websiteProducts.map((p) => (
             <option key={p.id} value={p.id}>
               {p.name}
             </option>
