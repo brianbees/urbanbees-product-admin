@@ -1,0 +1,288 @@
+Folder PATH listing for volume F_drive
+Volume serial number is 56A2-C0D4
+F:.
+³   .gitignore
+³   IMAGES_READY.md
+³   IMAGE_MAPPING.md
+³   next-env.d.ts
+³   next.config.js
+³   package-lock.json
+³   package.json
+³   postcss.config.js
+³   project-structure.txt
+³   QUICKSTART.md
+³   README.md
+³   tailwind.config.js
+³   to do.txt
+³   tsconfig.json
+³   
+ÃÄÄÄolder
+³   ³   update-products.js
+³   ³   
+³   ÀÄÄÄ.next
+³       ³   app-build-manifest.json
+³       ³   build-manifest.json
+³       ³   package.json
+³       ³   react-loadable-manifest.json
+³       ³   trace
+³       ³   
+³       ÃÄÄÄcache
+³       ³   ÃÄÄÄswc
+³       ³   ³   ÀÄÄÄplugins
+³       ³   ³       ÀÄÄÄv7_windows_x86_64_0.106.15
+³       ³   ÀÄÄÄwebpack
+³       ³       ÃÄÄÄclient-development
+³       ³       ³       0.pack.gz
+³       ³       ³       1.pack.gz
+³       ³       ³       2.pack.gz
+³       ³       ³       3.pack.gz
+³       ³       ³       index.pack.gz
+³       ³       ³       index.pack.gz.old
+³       ³       ³       
+³       ³       ÀÄÄÄserver-development
+³       ³               0.pack.gz
+³       ³               1.pack.gz
+³       ³               2.pack.gz
+³       ³               3.pack.gz
+³       ³               index.pack.gz
+³       ³               index.pack.gz.old
+³       ³               
+³       ÃÄÄÄserver
+³       ³   ³   app-paths-manifest.json
+³       ³   ³   interception-route-rewrite-manifest.js
+³       ³   ³   middleware-build-manifest.js
+³       ³   ³   middleware-manifest.json
+³       ³   ³   middleware-react-loadable-manifest.js
+³       ³   ³   next-font-manifest.js
+³       ³   ³   next-font-manifest.json
+³       ³   ³   pages-manifest.json
+³       ³   ³   server-reference-manifest.js
+³       ³   ³   server-reference-manifest.json
+³       ³   ³   webpack-runtime.js
+³       ³   ³   
+³       ³   ÃÄÄÄapp
+³       ³   ³       page.js
+³       ³   ³       page_client-reference-manifest.js
+³       ³   ³       
+³       ³   ÃÄÄÄpages
+³       ³   ÀÄÄÄvendor-chunks
+³       ³           @swc.js
+³       ³           next.js
+³       ³           use-sync-external-store.js
+³       ³           zustand.js
+³       ³           
+³       ÃÄÄÄstatic
+³       ³   ÃÄÄÄchunks
+³       ³   ³   ³   app-pages-internals.js
+³       ³   ³   ³   main-app.js
+³       ³   ³   ³   polyfills.js
+³       ³   ³   ³   webpack.js
+³       ³   ³   ³   
+³       ³   ³   ÃÄÄÄapp
+³       ³   ³   ³       layout.js
+³       ³   ³   ³       page.js
+³       ³   ³   ³       
+³       ³   ³   ÀÄÄÄpages
+³       ³   ÃÄÄÄcss
+³       ³   ³   ÀÄÄÄapp
+³       ³   ³           layout.css
+³       ³   ³           
+³       ³   ÃÄÄÄdevelopment
+³       ³   ³       _buildManifest.js
+³       ³   ³       _ssgManifest.js
+³       ³   ³       
+³       ³   ÃÄÄÄmedia
+³       ³   ³       19cfc7226ec3afaa-s.woff2
+³       ³   ³       21350d82a1f187e9-s.woff2
+³       ³   ³       8e9860b6e62d6359-s.woff2
+³       ³   ³       ba9851c3c22cd980-s.woff2
+³       ³   ³       c5fe6dc8356a8c31-s.woff2
+³       ³   ³       df0a9ae256c0569c-s.woff2
+³       ³   ³       e4af272ccee01ff0-s.p.woff2
+³       ³   ³       
+³       ³   ÀÄÄÄwebpack
+³       ³       ³   094324057b081789.webpack.hot-update.json
+³       ³       ³   0ee6ef2889831249.webpack.hot-update.json
+³       ³       ³   12b1a0a6bd101904.webpack.hot-update.json
+³       ³       ³   5590e8bab0bfe57f.webpack.hot-update.json
+³       ³       ³   5e5229580fe53d21.webpack.hot-update.json
+³       ³       ³   633457081244afec._.hot-update.json
+³       ³       ³   83dc2ef72894bca3.webpack.hot-update.json
+³       ³       ³   93a42cf10312d22a.webpack.hot-update.json
+³       ³       ³   ab29395fc1b3a08a.webpack.hot-update.json
+³       ³       ³   b2e12114e571521b.webpack.hot-update.json
+³       ³       ³   bb660f57f792142d.webpack.hot-update.json
+³       ³       ³   ee5a7cbf9dc5ae68.webpack.hot-update.json
+³       ³       ³   webpack.094324057b081789.hot-update.js
+³       ³       ³   webpack.0ee6ef2889831249.hot-update.js
+³       ³       ³   webpack.12b1a0a6bd101904.hot-update.js
+³       ³       ³   webpack.5590e8bab0bfe57f.hot-update.js
+³       ³       ³   webpack.5e5229580fe53d21.hot-update.js
+³       ³       ³   webpack.83dc2ef72894bca3.hot-update.js
+³       ³       ³   webpack.93a42cf10312d22a.hot-update.js
+³       ³       ³   webpack.ab29395fc1b3a08a.hot-update.js
+³       ³       ³   webpack.b2e12114e571521b.hot-update.js
+³       ³       ³   webpack.bb660f57f792142d.hot-update.js
+³       ³       ³   webpack.ee5a7cbf9dc5ae68.hot-update.js
+³       ³       ³   
+³       ³       ÀÄÄÄapp
+³       ³               layout.094324057b081789.hot-update.js
+³       ³               layout.0ee6ef2889831249.hot-update.js
+³       ³               layout.12b1a0a6bd101904.hot-update.js
+³       ³               layout.5590e8bab0bfe57f.hot-update.js
+³       ³               layout.5e5229580fe53d21.hot-update.js
+³       ³               layout.83dc2ef72894bca3.hot-update.js
+³       ³               layout.93a42cf10312d22a.hot-update.js
+³       ³               layout.ab29395fc1b3a08a.hot-update.js
+³       ³               layout.b2e12114e571521b.hot-update.js
+³       ³               layout.bb660f57f792142d.hot-update.js
+³       ³               layout.ee5a7cbf9dc5ae68.hot-update.js
+³       ³               page.12b1a0a6bd101904.hot-update.js
+³       ³               page.5590e8bab0bfe57f.hot-update.js
+³       ³               page.ab29395fc1b3a08a.hot-update.js
+³       ³               page.b2e12114e571521b.hot-update.js
+³       ³               
+³       ÀÄÄÄtypes
+³           ³   package.json
+³           ³   
+³           ÀÄÄÄapp
+³                   layout.ts
+³                   page.ts
+³                   
+ÃÄÄÄproduct-admin
+³   ³   .env.local
+³   ³   .gitignore
+³   ³   eslint.config.mjs
+³   ³   next-env.d.ts
+³   ³   next.config.ts
+³   ³   package-lock.json
+³   ³   package.json
+³   ³   postcss.config.mjs
+³   ³   README.md
+³   ³   tsconfig.json
+³   ³   
+³   ÃÄÄÄapp
+³   ³   ³   favicon.ico
+³   ³   ³   globals.css
+³   ³   ³   layout.tsx
+³   ³   ³   page.tsx
+³   ³   ³   
+³   ³   ÃÄÄÄadd-product
+³   ³   ³       page.tsx
+³   ³   ³       
+³   ³   ÀÄÄÄadd-variant
+³   ³           page.tsx
+³   ³           
+³   ÃÄÄÄlib
+³   ³       supabase.ts
+³   ³       
+³   ÀÄÄÄpublic
+³           file.svg
+³           globe.svg
+³           next.svg
+³           vercel.svg
+³           window.svg
+³           
+ÃÄÄÄpublic
+³   ³   index.html
+³   ³   redirect.html
+³   ³   
+³   ÀÄÄÄimages
+³           apidea.jpg
+³           brood-1412-cedar.jpg
+³           brood-national-castellated.jpg
+³           brood-national-flatpack.jpg
+³           brood-national-metal.jpg
+³           brood-national-poly.jpg
+³           buzz-workwear.jpg
+³           clearer-board.jpg
+³           coverboard-glass.jpg
+³           coverboard-wood.jpg
+³           drone-frames.jpg
+³           endboard-1412-wood.jpg
+³           endboard-plastic.jpg
+³           entrance-block.jpg
+³           extractor-logar.jpg
+³           feeder-cedar.jpg
+³           feeder-eke.jpg
+³           foundation-unwired.jpg
+³           frame-spacers.jpg
+³           frame-trap-queen.jpg
+³           hat-round.jpg
+³           honey-showcase.jpg
+³           jars-55ml.jpg
+³           lid-deep-metal.jpg
+³           lid-gabled.jpg
+³           lid-shallow-metal.jpg
+³           nuc-1412-cedar.jpg
+³           nuc-green-ply.jpg
+³           nuc-park-poly.jpg
+³           nuc-paynes-poly.jpg
+³           nuc-stehr.jpg
+³           nuc-thornes.jpg
+³           obs-hive.jpg
+³           omf-tray.jpg
+³           omf-wire.jpg
+³           placeholder.jpg
+³           queen-excluder-metal.jpg
+³           queen-excluder-plastic.jpg
+³           queen-rearing-kit.jpg
+³           queen-trap-1412.jpg
+³           runners-metal.jpg
+³           sidebars-1412.jpg
+³           sidebars-dn.jpg
+³           sidebars-sn.jpg
+³           skep.jpg
+³           smock-fencing.jpg
+³           smock-round-heavy.jpg
+³           smock-round-light.jpg
+³           spinner-2frame.jpg
+³           stand-double.jpg
+³           stand-sloping.jpg
+³           stand-square.jpg
+³           suit-full.jpg
+³           super-national-castellated.jpg
+³           super-national-flatpack.jpg
+³           super-national-frames.jpg
+³           super-national-metal.jpg
+³           super-national-plastic.jpg
+³           teaching-frames.jpg
+³           thornes-legs.jpg
+³           topbars.jpg
+³           travel-1412-osb.jpg
+³           travel-1412-plastic.jpg
+³           travel-1412-ply.jpg
+³           travel-flatpack.jpg
+³           varroa-board.jpg
+³           wbc-brood.jpg
+³           wbc-coverboard.jpg
+³           wbc-lifts.jpg
+³           wbc-queen-excluder.jpg
+³           wbc-super.jpg
+³           wellies.jpg
+³           
+ÀÄÄÄsrc
+    ÃÄÄÄapp
+    ³   ³   globals.css
+    ³   ³   layout.tsx
+    ³   ³   page.tsx
+    ³   ³   
+    ³   ÃÄÄÄcheckout
+    ³   ³       page.tsx
+    ³   ³       
+    ³   ÀÄÄÄproduct
+    ³       ÀÄÄÄ[id]
+    ³               page.tsx
+    ³               
+    ÃÄÄÄcomponents
+    ³       CartDrawer.tsx
+    ³       FloatingCartButton.tsx
+    ³       Header.tsx
+    ³       ProductCard.tsx
+    ³       
+    ÃÄÄÄdata
+    ³       products.ts
+    ³       
+    ÀÄÄÄstore
+            cart.ts
+            

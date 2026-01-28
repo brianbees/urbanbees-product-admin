@@ -1,0 +1,3 @@
+"I want to remove the requirement for customers to manually type their order details into the PayPal note.
+
+Can we update the checkout logic so that the Cart Summary (items, quantities, and IDs) is sent directly to the payment provider's metadata? I want the order details to show up automatically in my seller dashboard when a payment is completed."
