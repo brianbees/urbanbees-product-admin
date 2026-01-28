@@ -1,9 +1,7 @@
 // File location: product-admin/app/page.tsx
 
-export const dynamic = 'force-dynamic';
-
-
 'use client';
+export const dynamic = 'force-dynamic';
 
 import { useState } from 'react';
 import { supabase } from '@/lib/supabase';
