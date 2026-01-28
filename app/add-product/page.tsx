@@ -1,3 +1,5 @@
+// product-admin\app\add-product\page.tsx
+
 'use client';
 
 import { useState, useEffect } from 'react';
@@ -157,6 +159,18 @@ export default function AddProductPage() {
         />
 
         {/* Image upload */}
+<label className="block font-medium mb-1">Upload Images</label>
+
+<label className="block w-full p-3 border rounded cursor-pointer bg-gray-100 hover:bg-gray-200 text-center">
+  Click to choose images
+  <input
+    type="file"
+    accept="image/*"
+    multiple
+    onChange={(e) => setImages(Array.from(e.target.files || []))}
+    className="hidden"
+  />
+</label>
         <input
           type="file"
           accept="image/*"

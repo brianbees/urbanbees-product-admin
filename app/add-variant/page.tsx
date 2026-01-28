@@ -1,3 +1,6 @@
+// product-admin\app\add-variant\page.tsx
+
+
 'use client';
 
 import { useState, useEffect } from 'react';
