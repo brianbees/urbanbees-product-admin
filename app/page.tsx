@@ -1,5 +1,8 @@
 // File location: product-admin/app/page.tsx
 
+export const dynamic = 'force-dynamic';
+
+
 'use client';
 
 import { useState } from 'react';
